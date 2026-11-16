@@ -8,7 +8,6 @@ export const site = {
   email: "eugeneokaka@gmail.com",
   phone: "+254790486537",
   location: "Nairobi, Kenya",
-  availability: "Open to internships & junior roles",
   description:
     "I build end-to-end products, taking ideas from concept to production, from backend architecture and APIs to frontend experiences, databases, and cloud infrastructure.",
   github: "https://github.com/eugeneokaka",
@@ -42,7 +41,7 @@ export const highlights: {
   {
     icon: "sparkles",
     title: "Open to Work",
-    copy: "Internships & junior roles",
+    copy: "Software engineering & freelance",
   },
 ];
 

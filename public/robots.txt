@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://eugenecode.online
+Sitemap: https://eugenecode.online/sitemap.xml

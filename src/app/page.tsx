@@ -140,12 +140,7 @@ function Hero() {
 
       <div className="relative mx-auto grid max-w-6xl items-center gap-16 px-5 pb-24 pt-12 sm:px-8 lg:grid-cols-[1.05fr_0.95fr] lg:gap-10 lg:pb-32 lg:pt-16">
         <div className="hero-enter relative z-10">
-          <div className="inline-flex items-center gap-2 rounded-full border border-line bg-white/70 px-3.5 py-1.5 text-[10px] font-semibold uppercase tracking-[0.2em] text-ink/55">
-            <span className="h-2 w-2 rounded-full bg-sun ring-2 ring-sun/30" />
-            {site.availability}
-          </div>
-
-          <h1 className="mt-6 font-display text-[2.7rem] font-extrabold leading-[1.04] tracking-tight text-ink sm:text-6xl lg:text-[4.1rem]">
+          <h1 className="font-display text-[2.7rem] font-extrabold leading-[1.04] tracking-tight text-ink sm:text-6xl lg:text-[4.1rem]">
             Hi! I&apos;m Eugene Okaka —
             <span className="mt-3 block text-sun">
               Full-Stack &amp; Cloud Engineer
